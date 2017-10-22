@@ -2,5 +2,5 @@ Familia:Open Sans
 
 tamaños:
 Encabezado:36px
-Sub encabezado:24 px
-Parrafo: 10 o 11px
+Sub encabezado:30 px
+Parrafo:14 px
